@@ -112,8 +112,6 @@ fetch("https://your-langflow-deployment/api/v1/run/your-flow-id", {
 
 - Flow diagram (Langflow canvas)
 - Playground output view
-- MongoDB Atlas collection
-- NVIDIA Embedding settings
 
 (All images are located in the `/assets` folder)
 
